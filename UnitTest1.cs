@@ -33,6 +33,7 @@ namespace DotNetSelenium
             {
                 driver.Quit();
                 driver.Dispose();
+
             }
         }
     }
